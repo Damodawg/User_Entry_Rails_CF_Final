@@ -1,28 +1,8 @@
-== README
+The following application was created by Damian Wylie for the Codefellows 2013 Fall
+CodeFellows application.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To run the program, download entire package to a root folder on the C:drive.
+On the cmd prompt, type in "rails s" after cd'ing to the root folder.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+In your web browser, type in "http://localhost:3000/" and you will have access to
+this app!
