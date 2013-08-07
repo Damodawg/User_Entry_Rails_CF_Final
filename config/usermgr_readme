@@ -1,0 +1,8 @@
+The following application was created by Damian Wylie for the Codefellows 2013 Fall
+CodeFellows application.
+
+To run the program, download entire package to a root folder on the C:drive.
+On the cmd prompt, type in "rails s" after cd'ing to the root folder.
+
+In your web browser, type in "http://localhost:3000/" and you will have access to
+this app!
